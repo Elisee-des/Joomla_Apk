@@ -30,6 +30,14 @@ html, body {
     background: floralwhite;
     padding: 12px;
 }
+#menu_bureau li {
+    display: inline;
+    margin-left: 10px;
+}
+#menu_bureau a {
+    color: #fff;
+    text-decoration: none;
+}
 
 #menu_mobile {
     width: 320px;
@@ -107,4 +115,5 @@ html, body {
     #pied{
         clear: both;
     }
+
 }
