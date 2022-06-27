@@ -81,6 +81,9 @@ html, body {
     #btn_menu, #menu_mobile {
         display: none;
     }
+    .pull-left{
+        float: left;
+    }
     #menu_bureau {
         display: block;
         padding: 2px;
