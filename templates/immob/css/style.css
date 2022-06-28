@@ -68,6 +68,34 @@ html, body {
     background: #AAA;
     margin-top: 10px;
 }
+/*************************************CONTENU JOOMLA***************************************/
+
+.category-name {
+    font-size: 11px;
+    font-style: italic;
+    color: #444;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.category-name a {
+    color: red;
+    text-decoration: none;
+}
+
+.readmore a {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+#contenu h2 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #444;
+    margin: 15px 0;
+    margin: 20px;
+}
 
 @media screen and (min-width: 760px){
     #sidebar{
